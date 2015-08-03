@@ -2,7 +2,7 @@
 
 forecast is a command line forecast application
 
-forecast uses the [forecast.io](forecast.io) API and displays it into your favorite console
+forecast uses the http://forecast.io API and displays it into your favorite console
 
 
 # INSTALL
