@@ -1,0 +1,23 @@
+{
+  "name": "forecast",
+  "version": "1.0.0",
+  "description": "\"Simple client which give me the current weather\"",
+  "bin": {
+    "forecast": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ArmandDu",
+  "license": "ISC",
+  "dependencies": {
+    "easy-table": "^1.0.0",
+    "express": "^4.13.1",
+    "minimist": "^1.1.1",
+    "moment": "^2.10.3",
+    "nconf": "^0.7.1",
+    "node-geocoder": "^2.21.2",
+    "string-format": "^0.5.0",
+    "q": "~1.4.1"
+  }
+}
